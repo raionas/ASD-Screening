@@ -4,7 +4,7 @@ install.packages("mlr")  # create maps
 install.packages("Amelia")  # create maps
 install.packages("mlbench") # benchmark
 install.packages("kableExtra") # data summary
-install.packages("knitr") # data summary
+install.packages("knitr") # fancy tables
 install.packages("corrr")
 install.packages("corrplot") # to obtain ideas of which variables change together
 
