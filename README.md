@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1Tmqhz15BhxVzc2wUCyTLsCGPpnZC9Vtyme5eR9ix
 
 # Files
 
-# asd.tddler.R
+# asd.toddler.R
 Descriptive Statistics
 
 # asd.cor.matrix
