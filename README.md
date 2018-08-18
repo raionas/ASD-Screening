@@ -12,3 +12,7 @@ Descriptive Statistics
 # asd.cor.matrix
 
 A square representation was equated to blue as positive and red as negative. A larger dot represents a higher degree of correlation and the matrix shows that the squares are symmetrically diagonal meaning the variables are positively correlated with itself. Also, some variables displays positive correlation with each other.
+
+# Exploratory_DA_for_toddler_dataset.pdf
+
+Exporatory Data Analysis using funModeling Package an approach to listen to the data.
