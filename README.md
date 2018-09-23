@@ -32,3 +32,7 @@ A square representation was equated to blue as positive and red as negative. A l
 # Exploratory_DA_for_toddler_dataset.pdf
 
 Exporatory Data Analysis using funModeling Package an approach to listen to the data.
+
+# Weka-asd-Experiments
+
+Experiments carried out in WEKA Tool to select a model with good accuracy that would produce the least rules that would be then employed as a mapper to a description reoprt.
